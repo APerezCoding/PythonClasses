@@ -11,5 +11,5 @@ A repository of interactive notebooks to learn Python as we go along. Each noteb
 We will be using Binder which is an Open source too that pulls off a Github Repository with Jupyter Notebooks and allows them to be interactive with anyone who has access to the link
 
 ### __Binder Link:__
-Please click on Link below to get started with training:
+Please click on Link to get started with training:
 https://mybinder.org/v2/gh/APerezCoding/PythonClasses/master
