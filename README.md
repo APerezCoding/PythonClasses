@@ -16,4 +16,4 @@ Please click on Link to get started with training:
 https://mybinder.org/v2/gh/APerezCoding/PythonClasses/master
 
 ### Other Resources:
-* [link] https://automatetheboringstuff.com/#toc
+* Automating the Boring Stuff with Python [Full Book on Line]: https://automatetheboringstuff.com/#toc
